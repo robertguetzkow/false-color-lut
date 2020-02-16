@@ -146,7 +146,7 @@ A detailed documentation of each class and function can be found in the source c
 
 ## Creating Colormaps
 
-There are two way to add new colormaps. You can either define them as variable in `colors.py` or load colormaps created by [viscm](#create-colormaps-with-viscm).
+There are two ways to add new colormaps. You can either define them as variable in `colors.py` or load colormaps created by [viscm](#create-colormaps-with-viscm).
 
 ### Create colormaps in `colors.py`
 
